@@ -1,10 +1,12 @@
+<h1 align="left">Hey 👋 how you doing?</h1>
+<p align="left">My name is Ricardo and i'm from Rio de Janeiro, Brazil</p>
+
+###
+
 <h2 align="left">About me</h2>
 
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help getting my first job
-
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
