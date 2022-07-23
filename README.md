@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="left">About me</h2>
 
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help getting my first job
