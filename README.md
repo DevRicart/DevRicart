@@ -31,28 +31,28 @@
 
 <div align="left">
 <a href=""> 
-  <img href="./images/linkedin.png" alt="" />
+  <img src="./images/linkedin.png" alt="" />
 </a>
 <a href=""> 
-  <img href="./images/curriculo.png" alt="" />
+  <img src="./images/curriculo.png" alt="" />
 </a>
 <a href=""> 
-  <img href="./images/portfolio.png" alt="" />
+  <img src="./images/portfolio.png" alt="" />
 </a>
 <a href=""> 
-  <img href="./images/email.png" alt="" />
+  <img src="./images/email.png" alt="" />
 </a>
 <a href=""> 
-  <img href="./images/instagram.png" alt="" />
+  <img src="./images/instagram.png" alt="" />
 </a>
 <a href=""> 
-  <img href="./images/facebook.png" alt="" />
+  <img src="./images/facebook.png" alt="" />
 </a>
 <a href=""> 
-  <img href="./images/zap.png" alt="" />
+  <img src="./images/zap.png" alt="" />
 </a>
 <a href=""> 
-  <img href="./images/discord.png" alt="" />
+  <img src="./images/discord.png" alt="" />
 </a>
 </div>
 
