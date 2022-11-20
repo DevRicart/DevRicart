@@ -30,7 +30,30 @@
 ###
 
 <div align="left">
-
+<a href=""> 
+  <img href="./images/linkedin.png" alt="" />
+</a>
+<a href=""> 
+  <img href="./images/curriculo.png" alt="" />
+</a>
+<a href=""> 
+  <img href="./images/portfolio.png" alt="" />
+</a>
+<a href=""> 
+  <img href="./images/email.png" alt="" />
+</a>
+<a href=""> 
+  <img href="./images/instagram.png" alt="" />
+</a>
+<a href=""> 
+  <img href="./images/facebook.png" alt="" />
+</a>
+<a href=""> 
+  <img href="./images/zap.png" alt="" />
+</a>
+<a href=""> 
+  <img href="./images/discord.png" alt="" />
+</a>
 </div>
 
 
