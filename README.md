@@ -51,8 +51,9 @@
   <a href=""> 
     <img src="./images/zap.png" alt="" />
   </a>
+      <img src="./images/discord.png" alt="" />
 </div>
-    <img src="./images/discord.png" alt="" />
+
 
 
 
