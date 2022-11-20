@@ -30,28 +30,7 @@
 ###
 
 <div align="left">
-   <a href="https://www.linkedin.com/in/ricardo-gon/" target="_blank" > 
-    <img src="./images/linkedin.png" alt="" /> 
-   </a>
-  <a href=""> 
-    <img src="./images/curriculo.png" alt="" />
-  </a>
-  <a href=""> 
-    <img src="./images/portfolio.png" alt="" />
-  </a>
-  <a href=mailto:ricardo.gferreira97@hotmail.com>
-    <img src="./images/email.png" alt="" /> 
-  </a>
-  <a href="https://www.instagram.com/ricardinferreira/">
-    <img src="./images/instagram.png" alt="" /> 
-  </a>
-  <a href=""> 
-    <img src="./images/facebook.png" alt="" />
-  </a>
-  <a href=""> 
-    <img src="./images/zap.png" alt="" />
-  </a>
-      <img src="./images/discord.png" alt="" />
+
 </div>
 
 
