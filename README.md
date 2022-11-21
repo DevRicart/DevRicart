@@ -29,6 +29,8 @@
 
 ###
 
+
+<h2 align="left">Contacts</h2>
 <div align="left">
 <a href=""> 
   <img src="./images/linkedin.png" alt="" />
