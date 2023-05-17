@@ -48,9 +48,6 @@
   <img src="./images/instagram.png" alt="" />
 </a>
 <a href=""> 
-  <img src="./images/facebook.png" alt="" />
-</a>
-<a href=""> 
   <img src="./images/zap.png" alt="" />
 </a>
 <a href=""> 
