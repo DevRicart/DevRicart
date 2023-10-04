@@ -49,9 +49,7 @@
 <a href=""> 
   <img src="./images/zap.png" alt="" />
 </a>
-<a href=""> 
   <img src="./images/discord.png" alt="" />
-</a>
 </div>
 
 
