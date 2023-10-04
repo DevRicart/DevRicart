@@ -34,7 +34,7 @@
 <a href="https://www.linkedin.com/in/ricardo-gon/"> 
   <img src="./images/linkedin.png" alt="" />
 </a>
-<a href=""> 
+<a href="https://drive.google.com/file/d/1aDS9Z2zoc98cCM60f5aE3cmLQvDRwPpa/view?usp=sharing"> 
   <img src="./images/curriculo.png" alt="" />
 </a>
 <a href="https://devricart.github.io/Mini-portfolio-pessoal/"> 
