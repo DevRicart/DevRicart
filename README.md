@@ -31,19 +31,19 @@
 
 <h2 align="left">Contacts</h2>
 <div align="left">
-<a href=""> 
+<a href="https://www.linkedin.com/in/ricardo-gon/"> 
   <img src="./images/linkedin.png" alt="" />
 </a>
 <a href=""> 
   <img src="./images/curriculo.png" alt="" />
 </a>
-<a href=""> 
+<a href="https://devricart.github.io/Mini-portfolio-pessoal/"> 
   <img src="./images/portfolio.png" alt="" />
 </a>
 <a href=""> 
   <img src="./images/email.png" alt="" />
 </a>
-<a href=""> 
+<a href="https://www.instagram.com/devricart/"> 
   <img src="./images/instagram.png" alt="" />
 </a>
 <a href=""> 
