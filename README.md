@@ -5,7 +5,7 @@
 
 <h2 align="left">About me</h2>
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Front-end
 - 🤔 I’m looking for help to get my first job
 
 ###
